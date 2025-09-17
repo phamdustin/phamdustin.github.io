@@ -7,8 +7,6 @@ const Resume = () => {
 
   return (
     <div>
-      <b>IN PROGRESS</b>
-    
       <iframe
         src={embedUrl}
         width="1500"
